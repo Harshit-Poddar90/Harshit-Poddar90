@@ -1,20 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hello+Visitor;My+name+is+Harshit+Poddar;I+am+pursing+my+Msc.+Machine+Learning;at+KTH+Royal+Institute+of+Technology;At+the+moment+i+am+working+on+different+ML+implementations)](https://git.io/typing-svg)
 
-
 <h1 align="center">Hi 👋, I'm Harshit Poddar</h1>
 <h3 align="center">An awesome ML Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghdjnth&label=Profile%20views&color=0e75b6&style=flat" alt="ghdjnth" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-poddar90&label=Profile%20views&color=0e75b6&style=flat-square" alt="harshit-poddar90" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghdjnth" alt="ghdjnth" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit-poddar90" alt="harshit-poddar90" /></a> </p>
 
-- 🔭 I’m currently working on [dfgfed](gsdfgdfs)
+- 🔭 I’m currently working on [Machine Learning project](https://www.linkedin.com/in/harshit-poddar-5b6587218/)
 
 - 🌱 I’m currently learning **hdfhdh**
 
-- 👯 I’m looking to collaborate on [hfghd](dfhfd)
+- 👯 I’m looking to collaborate on [yes i am](https://www.linkedin.com/in/harshit-poddar-5b6587218/)
 
-- 🤝 I’m looking for help with [gdfgfd](dfgfd)
+- 🤝 I’m looking for help with [gdfgfd](https://www.linkedin.com/in/harshit-poddar-5b6587218/)
 
 - 👨‍💻 All of my projects are available at [dfhdf](dfhdf)
 
@@ -22,7 +21,7 @@
 
 - 💬 Ask me about **dfhfdd**
 
-- 📫 How to reach me **dfhdfhhdh**
+- 📫 How to reach me **linkedin**
 
 - 📄 Know about my experiences [hgjj](hgjj)
 
@@ -30,18 +29,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jryhj jherytretyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jryhj jherytretyh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-poddar-5b6587218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-poddar-5b6587218/" height="30" width="40" /></a>
 <a href="https://medium.com/srthsrth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="srthsrth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghdjnth&show_icons=true&locale=en&layout=compact" alt="ghdjnth" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit-poddar90&show_icons=true&theme=onedark&locale=en&layout=compact" alt="harshit-poddar90" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghdjnth&show_icons=true&locale=en" alt="ghdjnth" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit-poddar90&show_icons=true&theme=onedark&locale=en" alt="harshit-poddar90" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghdjnth&" alt="ghdjnth" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-poddar90&theme=dark" alt="harshit-poddar90" /></p>
 
 
 <!---
