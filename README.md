@@ -6,44 +6,16 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h1>👨‍💻 Harshit Poddar</h1>
-      <h3><em>Machine Learning Engineer · AI Researcher · Coder</em></h3>
-      <br/>
-      
-      <blockquote>
-        <p><strong>"Turning complex mathematical models into life-saving AI solutions."</strong></p>
-      </blockquote>
-      
-      <p>
-        🎓 <strong>EDUCATION</strong><br>
-        M.Sc. Machine Learning @ <code>KTH Royal Institute of Technology, Sweden</code>
-      </p>
-      
-      <p>
-        🧬 <strong>RESEARCH EXPERIENCE</strong><br>
-        Previous R&D at <code>DRDO</code>, <code>ISRO</code>, <code>ACTREC/TMH</code> & <code>IIM Trichy</code>
-      </p>
-      
-      <p>
-        🏆 <strong>SCIENTIFIC IMPACT</strong><br>
-        Published <strong>8+ Research Papers</strong> in <em>Nature Scientific Reports, IEEE, Springer, Elsevier</em>
-      </p>
-      
-      <p>
-        🧠 <strong>TECHNICAL FOCUS</strong><br>
-        Medical AI • Transformers • Computer Vision • Safety Critical Systems
-      </p>
-    </td>
-    <td width="45%" align="center" valign="center">
-      <img src="https://i.pinimg.com/originals/e0/98/9e/e0989e47cb90c8e310068a883f3e18a0.gif" width="90%" style="border-radius: 15px; box-shadow: 0px 0px 20px #33FFCC;">
-      <br/><br/>
-      <img src="https://komarev.com/ghpvc/?username=harshit-poddar90&label=Profile+Views&color=33FFCC&style=flat-square" />
-    </td>
-  </tr>
-</table>
+### 👨‍💻 About Me
+
+I am a Machine Learning Engineer and Researcher focused on bridging the gap between theoretical AI and real-world medical applications.
+
+* **🎓 Education:** M.Sc. in Machine Learning at *KTH Royal Institute of Technology, Sweden*.
+* **🧬 Experience:** Former Researcher at *DRDO, ISRO, ACTREC/TMH, & IIM Trichy*.
+* **🏆 Impact:** Author of **8+ Research Papers** (*Nature Scientific Reports, IEEE, Springer, Elsevier*).
+* **🧠 Technical Focus:** Medical AI, Transformers, Computer Vision, and Safety-Critical Systems.
+
+> *"Turning complex mathematical models into life-saving AI solutions."*
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
