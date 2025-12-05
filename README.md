@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hello+Visitor;My+name+is+Harshit+Poddar;I+am+pursing+my+Msc.+Machine+Learning;at+KTH+Royal+Institute+of+Technology;At+the+moment+i+am+working+on+different+ML+implementations)](https://git.io/typing-svg)
+
+
 <h1 align="center">Hi 👋, I'm Harshit Poddar</h1>
 <h3 align="center">An awesome ML Engineer</h3>
 
