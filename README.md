@@ -1,21 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=33FFCC&background=0D1117&center=true&vCenter=true&width=900&lines=Hello+Recruiter!+👋;I'm+Harshit+Poddar;Machine+Learning+Engineer+%26+Researcher;M.Sc.+Machine+Learning+@+KTH+Royal+Institute+of+Technology;Ex-Researcher+@+DRDO,+ISRO,+ACTREC,+IIM+Trichy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=33FFCC&background=0D1117&center=true&vCenter=true&width=900&lines=Hello+👋;I'm+Harshit+Poddar;Machine+Learning+Engineer+%26+Researcher;M.Sc.+Machine+Learning+@+KTH+Royal+Institute+of+Technology;Ex-Researcher+@+DRDO,+ISRO,+ACTREC,+IIM+Trichy" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-### 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-I am a Machine Learning Engineer and Researcher focused on bridging the gap between theoretical AI and real-world medical applications.
-
-* **🎓 Education:** M.Sc. in Machine Learning at *KTH Royal Institute of Technology, Sweden*.
-* **🧬 Experience:** Former Researcher at *DRDO, ISRO, ACTREC/TMH, & IIM Trichy*.
-* **🏆 Impact:** Author of **8+ Research Papers** (*Nature Scientific Reports, IEEE, Springer, Elsevier*).
-* **🧠 Technical Focus:** Medical AI, Transformers, Computer Vision, and Safety-Critical Systems.
-
-> *"Turning complex mathematical models into life-saving AI solutions."*
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=user@harshit:~$+_" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=./show_summary.sh;+>+LOADING+ACADEMIC+PROFILE...;_" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=>+EDUCATION:+M.Sc.+Machine+Learning+@+KTH+Royal+Institute+of+Technology;_" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=>+RESEARCH:+DRDO,+ISRO,+ACTREC/TMH,+IIM+Trichy;_" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=>+PUBLICATIONS:+8+Research+Papers+(Nature,+IEEE,+Springer,+Elsevier);_" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=>+TECHNICAL+FOCUS:+Medical+AI,+Transformers,+Computer+Vision,+Safety+Critical+Systems;_" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=>+SKILLS:+Python,+TensorFlow,+PyTorch,+ML,+AI,+Data+Science;_" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=>+INTERESTS:+Medical+AI,+Robotics,+Space+Tech,+Blockchain;_" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=>+FUN+FACT:+I+love+coding+and+coffee!;_" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=user@harshit:~$+_" />
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -88,7 +92,7 @@ I am a Machine Learning Engineer and Researcher focused on bridging the gap betw
 
 <h2 align="center">🔗 Connect with Me</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/harshitpoddar-5b6587218/">
+  <a href="https://www.linkedin.com/in/harshit-poddar-5b6587218/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
