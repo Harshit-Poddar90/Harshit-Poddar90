@@ -43,7 +43,6 @@ Machine Learning Researcher specializing in computer vision, multimodal systems,
 
 ### 🔬 Current Focus
 
-*   **Multimodal Navigation:** Prototyping real-time AI navigation systems integrating vision and audio (ImageBind) at the **Robotics Perception and Learning (RPL) Lab**.
 *   **Multi-Agent Systems & Path Planning:** Developing hierarchical planning frameworks and simulating autonomous agent logic (A*, Pure Pursuit) using C# and Unity.
 *   **Generative AI & MLOps:** Architecting RAG pipelines using LangChain, MLflow, and ChromaDB for semantic retrieval of unstructured telemetry logs.
 *   **Aerospace Simulation:** Engineering Hardware-in-the-Loop (HIL) systems for rigorous flight software validation with **AESIR (KTH Rocketry)**.
