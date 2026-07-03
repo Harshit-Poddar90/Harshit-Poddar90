@@ -1,112 +1,64 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=33FFCC&background=0D1117&center=true&vCenter=true&width=900&lines=Hello+👋;I'm+Harshit+Poddar;Machine+Learning+Engineer+%26+Researcher;M.Sc.+Machine+Learning+@+KTH+Royal+Institute+of+Technology;Ex-Researcher+@+DRDO,+ISRO,+ACTREC,+IIM+Trichy" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=harshit-poddar90&style=flat-square&color=2196F3&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+# Hi there, I'm Harshit 👋
 
-<h2 align="center">👨‍💻 About Me</h2>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=user@harshit:~$+_" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=./show_summary.sh;+>+LOADING+ACADEMIC+PROFILE...;_" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=>+EDUCATION:+M.Sc.+Machine+Learning+@+KTH+Royal+Institute+of+Technology;_" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=>+RESEARCH:+DRDO,+ISRO,+ACTREC/TMH,+IIM+Trichy;_" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=>+PUBLICATIONS:+8+Research+Papers+(Nature,+IEEE,+Springer,+Elsevier);_" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=>+TECHNICAL+FOCUS:+Medical+AI,+Transformers,+Computer+Vision,+Safety+Critical+Systems;_" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=>+SKILLS:+Python,+TensorFlow,+PyTorch,+ML,+AI,+Data+Science;_" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=>+INTERESTS:+Medical+AI,+Robotics,+Space+Tech,+Blockchain;_" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=>+FUN+FACT:+I+love+coding+and+coffee!;_" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=10000&color=33FFCC&background=0D1117&width=900&height=40&lines=user@harshit:~$+_" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<h2 align="center">🛠 Technical Arsenal</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>Languages</strong><br/>
-      <img src="https://skillicons.dev/icons?i=python,matlab,latex,sql&theme=dark" />
-    </td>
-    <td align="center">
-      <strong>AI/ML Frameworks</strong><br/>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn&theme=dark" />
-    </td>
-    <td align="center">
-      <strong>Tools & Cloud</strong><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,aws,gcp,linux,mysql,tableau&theme=dark" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<h2 align="center">📊 GitHub Performance</h2>
-<div align="center">
+<div align="left">
   <a href="https://github.com/harshit-poddar90">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=harshit-poddar90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=33FFCC&icon_color=33FFCC" />
-  </a>
-  <a href="https://github.com/harshit-poddar90">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-poddar90&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=33FFCC&langs_count=6" />
-  </a>
-  <a href="https://github.com/harshit-poddar90">
-    <img height="160" src="https://streak-stats.demolab.com?user=harshit-poddar90&theme=tokyonight&hide_border=true&background=0D1117&ring=33FFCC&currStreakLabel=33FFCC" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&vCenter=true&width=600&lines=Machine+Learning+Student+@+KTH;Computer+Vision+&+Multimodal+Systems;Scalable+MLOps+&+Generative+AI" alt="Typing SVG" />
   </a>
 </div>
+
+I am an M.Sc. Machine Learning student at **KTH Royal Institute of Technology** in Stockholm. My research and engineering focus lies at the intersection of **computer vision, audio-visual fusion, and neuro-symbolic AI**. I am dedicated to bridging the gap between complex AI research and robust, deployable pipelines, with a strong emphasis on multi-agent systems and spatial reasoning for autonomous agents.
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/harshit-poddar-5b6587218/) | [Google Scholar](https://scholar.google.com/citations?user=MQZBTE4AAAAJ&hl=en&authuser=2) | [Portfolio](https://harshit-poddar90.github.io/)
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-poddar90&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" />
 </div>
-
-<h2 align="center">📚 Selected Research</h2>
-<table border="0" width="100%">
-  <tr>
-    <td width="5%"></td>
-    <td width="90%">
-      <ul>
-        <li>📄 <strong>IEEE SENNET (2025)</strong> – <em>LungMate: AI-Driven Lung Cancer Diagnosis</em></li>
-        <li>📄 <strong>Nature Scientific Reports (2024)</strong> – <em>Plant Health Analysis via ML</em></li>
-        <li>📄 <strong>Elsevier BSPC (2024)</strong> – <em>Ultra-precise Brain Tumor Classification</em></li>
-        <li>📄 <strong>IOAP Biomedical Physics (2024)</strong> – <em>AI in Cancer Segmentation</em></li>
-        <li>📄 <strong>Springer J. Optics (2025)</strong> – <em>Photonic Structures & Quasicrystals</em></li>
-      </ul>
-    </td>
-    <td width="5%"></td>
-  </tr>
-</table>
-
+<br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-poddar90&bg_color=0D1117&color=33FFCC&line=33FFCC&point=FFFFFF&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit-poddar90&show_icons=true&theme=radical&hide_border=true&border_radius=5" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-poddar90&layout=compact&theme=radical&hide_border=true&border_radius=5" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
-<h2 align="center">🔗 Connect with Me</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/harshit-poddar-5b6587218/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:harshitpoddar28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=MQZBTE4AAAAJ">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
-  </a>
-</div>
+### 🔬 Current Focus
 
-<br/>
+*   **Multimodal Navigation:** Prototyping real-time AI navigation systems integrating vision and audio (ImageBind) at the **Robotics Perception and Learning (RPL) Lab**[cite: 1].
+*   **Multi-Agent Systems & Path Planning:** Developing hierarchical planning frameworks and simulating autonomous agent logic (A*, Pure Pursuit) using C# and Unity[cite: 1].
+*   **Generative AI & MLOps:** Architecting RAG pipelines using LangChain, MLflow, and ChromaDB for semantic retrieval of unstructured telemetry logs[cite: 1].
+*   **Aerospace Simulation:** Engineering Hardware-in-the-Loop (HIL) systems for rigorous flight software validation with **AESIR (KTH Rocketry)**[cite: 1].
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=33FFCC&height=100&section=footer" width="100%"/>
-</div>
+---
+
+### 🛠️ Tech Stack & Tools
+
+*   **Languages:** Python, C#, MATLAB, SQL[cite: 1]
+*   **AI & Deep Learning:** PyTorch, YOLO, U-Net, Hugging Face, Explainable AI (Grad-CAM, SHAP), LangChain (RAG)[cite: 1]
+*   **Computer Vision & Audio:** EfficientNet, Swin Transformers, Multi-organ segmentation, Audio-Visual Fusion[cite: 1]
+*   **MLOps & Cloud:** Google Cloud Platform (GCP), MLflow, ChromaDB, Git/GitHub, Linux[cite: 1]
+*   **Domains:** Clinical Data Standards (DICOM, FHIR, OMOP), Multi-Agent Pathfinding, Systems Validation[cite: 1]
+
+---
+
+### 🚀 Featured Projects & Research
+
+*   **LungMate (AI-Driven Lung Cancer Diagnosis):** Developed a hybrid CV system utilizing EfficientNet-B3, Swin Transformers, and YOLOv11 for multi-metric tumor quantification from DICOM data[cite: 1].
+*   **AI-Driven Protocol Diagnostic Suite:** Architecting a Generative AI pipeline leveraging ChromaDB and LangChain for efficient vector storage and semantic log retrieval[cite: 1].
+*   **Radar Degradation & Beamforming:** Engineered phased array antennas and real-time GUIs at **DRDO** and **ISRO**, achieving significant SNR improvements (>20%) and efficiency gains using beamforming algorithms (MVDR, LCMV)[cite: 1].
+*   **High-Altitude & Industrial IoT Safety Systems:** Designed and applied for patents on real-time ESP32 embedded systems leveraging Sensor Fusion and LoRaWAN for critical safety telemetry in hazardous environments[cite: 1].
+
+---
+
+### 🏆 Achievements
+
+*   **Patents:** Filed 2 Patents in IoT Safety Systems (Smart Helmet, Fall Protection)[cite: 1].
+*   **Publications:** 15+ papers published in IEEE, Springer, and Elsevier[cite: 1].
+*   **Awards:** 2x Raman Award winner; LLM Evaluation Participant at Google DeepMind & Andon Labs[cite: 1].
