@@ -52,7 +52,7 @@ Machine Learning Researcher specializing in computer vision, multimodal systems,
 
 ### 🛠️ Tech Stack & Tools
 
-*   **Languages:** Python, C#, MATLAB, SQL
+*   **Languages:** Python, MATLAB, SQL
 *   **AI & Deep Learning:** PyTorch, YOLO, U-Net, Hugging Face, Explainable AI (Grad-CAM, SHAP), LangChain (RAG)
 *   **Computer Vision & Audio:** EfficientNet, Swin Transformers, Multi-organ segmentation, Audio-Visual Fusion
 *   **MLOps & Cloud:** Google Cloud Platform (GCP), MLflow, ChromaDB, Git/GitHub, Linux
