@@ -28,19 +28,6 @@ Machine Learning Researcher specializing in computer vision, multimodal systems,
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-poddar90&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-poddar90&show_icons=true&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-poddar90&layout=compact&theme=tokyonight&hide_border=true&border_radius=5" alt="Top Languages" />
-</div>
-
----
-
 ### 🔬 Current Focus
 
 *   **Multi-Agent Systems & Path Planning:** Developing hierarchical planning frameworks and simulating autonomous agent logic (A*, Pure Pursuit) using C# and Unity.
